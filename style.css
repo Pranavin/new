@@ -1,0 +1,123 @@
+li{
+    display: inline-block;
+    padding-left: 20%;
+    position: sticky;
+    
+}
+#123{
+    background-color: black;
+}
+#67{
+    background-color: black;
+}
+/* #l{
+    text-align: center;
+    margin-bottom: 25vh;
+    color: white;
+    margin-left: 150px;
+    
+} */
+#hello{
+    background-image: url(tikka.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#kk{
+    margin: 25vh;
+    border: 8px double black;
+    color: rgb(24, 15, 15);
+    text-align: center;
+    background-color: rgb(255, 149, 10, 0.7);
+    margin: 100px;
+}
+
+/* @keyframes example{
+    0% {
+        background-color: darkblue; left: 0px;
+        top: 0px;
+    }
+    25%{
+        background-color: darkkhaki; left: 200px;
+        top: 0px;
+    }
+    50%{
+        background-color: darkred; left: 200px;
+        top: 200px;
+    }
+    75%{
+        background-color: gold; left: 0px;
+        top: 200px;
+    }
+    100%{
+        background-color: hotpink;left: 0px;
+        top: 0px;
+    }
+}
+.ok{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: chartreuse;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    text-align: center;
+
+} */
+.ok{
+    text-align: center;
+    color: white;
+    top: 90pc;
+}
+#gg{
+    color: white;
+}
+#im{
+    margin-right: 20%;
+    height: 300px;
+}
+#69{
+    height: 50px;
+}
+.row {
+    display: flex;
+    background-color:rgb(241, 231, 210, 0.5);
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 7px;
+  }
+#p{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#mm{
+    margin-left: 20px;
+
+}
+#zv{
+    text-align: right;
+    font-family: 'Dancing Script', cursive;
+    font-size: 200%;
+}
+#hack{
+    padding-right: 80px;
+}
+/* #1{
+    text-align: center;
+} */
+#op{
+    text-align: center;
+    margin-left: 40%;
+    
+}
+#y{
+    text-align: center;
+    color: white;
+    margin-bottom: 7.5%;
+}
+.xv{
+    text-decoration: none;
+}

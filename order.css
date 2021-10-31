@@ -1,0 +1,42 @@
+body{
+    border: 3px black solid
+    ;
+    border-radius: 40px;
+    margin: 30vh;
+    background-image: url(tikkap.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.ok{
+    text-align: center;
+}
+#nj{
+    margin-left: 60vh;
+}
+.a{
+    margin-left: 45vh;
+}
+#qw{
+    margin-left: 35%;
+}
+#we{
+    margin-left:30% ;
+}
+#er{
+    margin-left: 35%;
+    margin-top: 0.2%;
+}
+#rt{
+    margin-left: 35%;
+}
+#ty{
+    margin-left: 35%;
+}
+#yu{
+    margin-left: 47%;
+}
